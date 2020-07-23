@@ -7,6 +7,7 @@
 	* [UC-8100A-ME Series](#uc-8100a-me-series)
 	* [UC-8100 Series](#uc-8100-series)
 	* [UC-8100-ME Series](#uc-8100-me-series)
+	* [UC-8200 Series](#uc-8200-series)
 	* [UC-8410A Series](#uc-8410a-series)
 * x86
 	* [DA-662A Series](#da-662a-series)
@@ -52,6 +53,12 @@
 |Model Names|Kernel|Bootloader|Example Codes|Notes|
 |---|---|---|---|---|
 |UC-8112-ME-T-LX<br>UC-8112-ME-T-LX1<br>UC-8112-ME-T-LX-US-LTE<br>UC-8112-ME-T-US-LTE-LX1|[am335x-linux-4.4](https://github.com/Moxa-Linux/am335x-linux-4.4)|u-boot|[Example codes](https://github.com/Moxa-Linux/moxa-platform-example-codes)||
+
+## UC-8200 Series
+
+|Model Names|Kernel|Bootloader|Example Codes|Notes|
+|---|---|---|---|---|
+|UC-8210-T-LX<br>UC-8210-T-LX-S<br>UC-8220-T-LX<br>UC-8220-T-LX-US-S<br>UC-8220-T-LX-EU-S<br>UC-8220-T-LX-AP-S|[imx7-linux-4.4](https://github.com/Moxa-Linux/imx7-linux-4.4)|u-boot|[Example codes](https://github.com/Moxa-Linux/moxa-platform-example-codes)||
 
 ## UC-8410A Series
 
