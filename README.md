@@ -58,7 +58,7 @@
 
 |Model Names|Kernel|Bootloader|Example Codes|Notes|
 |---|---|---|---|---|
-|UC-8210-T-LX<br>UC-8210-T-LX-S<br>UC-8220-T-LX<br>UC-8220-T-LX-US-S<br>UC-8220-T-LX-EU-S<br>UC-8220-T-LX-AP-S| |u-boot|[Example codes](https://github.com/Moxa-Linux/moxa-platform-example-codes)||
+|UC-8210-T-LX<br>UC-8210-T-LX-S<br>UC-8220-T-LX<br>UC-8220-T-LX-US-S<br>UC-8220-T-LX-EU-S<br>UC-8220-T-LX-AP-S|[imx7-linux-4.4](https://github.com/Moxa-Linux/imx7-linux-4.4)|u-boot|[Example codes](https://github.com/Moxa-Linux/moxa-platform-example-codes)||
 
 ## UC-8410A Series
 
