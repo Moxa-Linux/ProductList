@@ -13,6 +13,10 @@
 	* [DA-662A Series](#da-662a-series)
 	* [V and DA X86 Series](#v-and-da-x86-series)
 	* [MC and MPC X86 Series](#mc-and-mpc-x86-series)
+	* [V-2406C-KL Series](#v-2406c-kl-series)
+	* [DA-820C Series](#da-820c-series)
+	* [DA-682C Series](#da-682c-series)
+	* [DA-681C Series](#da-681c-series)
 
 ## UC-2100 Series
 
@@ -86,3 +90,26 @@
 |---|---|---|---|---|---|
 |DA-720<br>DA-682B<br>MC-7400<br>MC-1100<br>MC-2070<br>MC-2120<br>MC-2101<br>MC-2121|Kernel|[Drivers](https://github.com/Moxa-Linux/x86_v3)|BIOS|[Example codes](https://github.com/Moxa-Linux/x86_v3)||
 
+## V-2406C-KL Series
+
+|Model Names|Kernel|Drivers/Applications/Example Codes|Notes|
+|---|---|---|---|
+|V-2406C-KL Series|4.9.0-13-amd64|[Link](https://github.com/orgs/Moxa-Linux/projects/6)|---|
+
+## DA-820C Series
+
+|Model Names|Kernel|Drivers/Applications/Example Codes|Notes|
+|---|---|---|---|
+|DA-820C-KL Series|4.9.0-13-amd64|[Link](https://github.com/orgs/Moxa-Linux/projects/7)|---|
+
+## DA-682C Series
+
+|Model Names|Kernel|Drivers/Applications/Example Codes|Notes|
+|---|---|---|---|
+|DA-682C-KL Series|4.9.0-13-amd64|[Link](https://github.com/orgs/Moxa-Linux/projects/8)|---|
+
+## DA-681C Series
+
+|Model Names|Kernel|Drivers/Applications/Example Codes|Notes|
+|---|---|---|---|
+|DA-681C-KL Series|4.9.0-13-amd64|[Link](https://github.com/orgs/Moxa-Linux/projects/9)|---|
