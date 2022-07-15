@@ -72,6 +72,18 @@
 |---|---|---|---|---|
 |UC-8410A-LX|[linux-4.4](https://github.com/Moxa-Linux/linux-4.4/tree/4.4.285-cip63-rt36/stretch-ls102xa/master) (`Lastest`)<br>[ls1021a-linux-4.4](https://github.com/Moxa-Linux/ls1021a-linux-4.4)|u-boot|[Example codes](https://github.com/Moxa-Linux/UC-8410A-example-code)||
 
+## UC-8540 Series
+
+|Model Names|Kernel|Bootloader|Example Codes|Notes|
+|---|---|---|---|---|
+|UC-8540-LX<br>UC-8540-T-LX<br>UC-8540-T-CT-LX|[linux-4.4](https://github.com/Moxa-Linux/linux-4.4/tree/4.4.285-cip63-rt36/stretch-ls102xa/master) (`Lastest`)|u-boot|||
+
+## UC-8580 Series
+
+|Model Names|Kernel|Bootloader|Example Codes|Notes|
+|---|---|---|---|---|
+|UC-8580-LX<br>UC-8580-T-LX<br>UC-8580-T-CT-LX<br>UC-8580-Q-LX|[linux-4.4](https://github.com/Moxa-Linux/linux-4.4/tree/4.4.285-cip63-rt36/stretch-ls102xa/master) (`Lastest`)|u-boot|||
+
 ## DA-662A Series
 
 |Model Names|Kernel|Drivers|BIOS|Example Codes|Notes|
