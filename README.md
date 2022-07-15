@@ -22,25 +22,25 @@
 
 |Model Names|Kernel|Bootloader|Example Codes|Notes|
 |---|---|---|---|---|
-|UC-2101-LX<br>UC-2102-LX<br>UC-2104-LX<br>UC-2111-LX<br>UC-2112-LX<br>UC-2112-T-LX<br>UC-2114-T-LX<br>UC-2116-T-LX|[am335x-linux-4.4](https://github.com/Moxa-Linux/am335x-linux-4.4)|u-boot|[Example codes](https://github.com/Moxa-Linux/moxa-platform-example-codes)||
+|UC-2101-LX<br>UC-2102-LX<br>UC-2104-LX<br>UC-2111-LX<br>UC-2112-LX<br>UC-2112-T-LX<br>UC-2114-T-LX<br>UC-2116-T-LX|[linux-4.4](https://github.com/Moxa-Linux/linux-4.4/tree/4.4.285-cip63-rt36/stretch-am335x/master)|u-boot|[Example codes](https://github.com/Moxa-Linux/moxa-platform-example-codes)||
 
 ## UC-3100 Series
 
 |Model Names|Kernel|Bootloader|Example Codes|Notes|
 |---|---|---|---|---|
-|UC-3101-T-US-LX<br>UC-3101-T-EU-LX<br>UC-3101-T-AU-LX<br>UC-3111-T-US-LX<br>UC-3111-T-EU-LX<br>UC-3111-T-AU-LX<br>UC-3121-T-US-LX<br>UC-3121-T-EU-LX<br>UC-3121-T-AU-LX|[am335x-linux-4.4](https://github.com/Moxa-Linux/am335x-linux-4.4)|u-boot|[Example codes](https://github.com/Moxa-Linux/moxa-platform-example-codes)||
+|UC-3101-T-US-LX<br>UC-3101-T-EU-LX<br>UC-3101-T-AU-LX<br>UC-3111-T-US-LX<br>UC-3111-T-EU-LX<br>UC-3111-T-AU-LX<br>UC-3121-T-US-LX<br>UC-3121-T-EU-LX<br>UC-3121-T-AU-LX|[linux-4.4](https://github.com/Moxa-Linux/linux-4.4/tree/4.4.285-cip63-rt36/stretch-am335x/master)|u-boot|[Example codes](https://github.com/Moxa-Linux/moxa-platform-example-codes)||
 
 ## UC-5100 Series
 
 |Model Names|Kernel|Bootloader|Example Codes|Notes|
 |---|---|---|---|---|
-|UC-5101-LX<br>UC-5101-T-LX<br>UC-5102-LX<br>UC-5102-T-LX<br>UC-5111-LX<br>UC-5111-T-LX<br>UC-5112-LX<br>UC-5112-T-LX|[am335x-linux-4.4](https://github.com/Moxa-Linux/am335x-linux-4.4)|u-boot|[Example codes](https://github.com/Moxa-Linux/moxa-platform-example-codes)||
+|UC-5101-LX<br>UC-5101-T-LX<br>UC-5102-LX<br>UC-5102-T-LX<br>UC-5111-LX<br>UC-5111-T-LX<br>UC-5112-LX<br>UC-5112-T-LX|[linux-4.4](https://github.com/Moxa-Linux/linux-4.4/tree/4.4.285-cip63-rt36/stretch-am335x/master)|u-boot|[Example codes](https://github.com/Moxa-Linux/moxa-platform-example-codes)||
 
 ## UC-8100A-ME Series
 
 |Model Names|Kernel|Bootloader|Example Codes|Notes|
 |---|---|---|---|---|
-|UC-8112A-ME-T-LX<br>UC-8112A-ME-T-LX-US<br>UC-8112A-ME-T-LX-EU<br>UC-8112A-ME-T-LX-AP|[am335x-linux-4.4](https://github.com/Moxa-Linux/am335x-linux-4.4)|u-boot|[Example codes](https://github.com/Moxa-Linux/moxa-platform-example-codes)||
+|UC-8112A-ME-T-LX<br>UC-8112A-ME-T-LX-US<br>UC-8112A-ME-T-LX-EU<br>UC-8112A-ME-T-LX-AP|[linux-4.4](https://github.com/Moxa-Linux/linux-4.4/tree/4.4.285-cip63-rt36/stretch-am335x/master)|u-boot|[Example codes](https://github.com/Moxa-Linux/moxa-platform-example-codes)||
 
 ## UC-8100 Series
 
@@ -48,7 +48,7 @@
 
 |Model Names|Kernel|Bootloader|Example Codes|Notes|
 |---|---|---|---|---|
-|UC-8131-LX<br>UC-8132-LX<br>UC-8162-LX<br>UC-8112-LX|[am335x-linux-4.4](https://github.com/Moxa-Linux/am335x-linux-4.4)|u-boot|[Example codes](https://github.com/Moxa-Linux/moxa-platform-example-codes)||
+|UC-8131-LX<br>UC-8132-LX<br>UC-8162-LX<br>UC-8112-LX|[linux-4.4](https://github.com/Moxa-Linux/linux-4.4/tree/4.4.285-cip63-rt36/stretch-am335x/master)|u-boot|[Example codes](https://github.com/Moxa-Linux/moxa-platform-example-codes)||
 
 ## UC-8100-ME Series
 
@@ -56,13 +56,13 @@
 
 |Model Names|Kernel|Bootloader|Example Codes|Notes|
 |---|---|---|---|---|
-|UC-8112-ME-T-LX<br>UC-8112-ME-T-LX1<br>UC-8112-ME-T-LX-US-LTE<br>UC-8112-ME-T-US-LTE-LX1|[am335x-linux-4.4](https://github.com/Moxa-Linux/am335x-linux-4.4)|u-boot|[Example codes](https://github.com/Moxa-Linux/moxa-platform-example-codes)||
+|UC-8112-ME-T-LX<br>UC-8112-ME-T-LX1<br>UC-8112-ME-T-LX-US-LTE<br>UC-8112-ME-T-US-LTE-LX1|[linux-4.4](https://github.com/Moxa-Linux/linux-4.4/tree/4.4.285-cip63-rt36/stretch-am335x/master)|u-boot|[Example codes](https://github.com/Moxa-Linux/moxa-platform-example-codes)||
 
 ## UC-8200 Series
 
 |Model Names|Kernel|Bootloader|Example Codes|Notes|
 |---|---|---|---|---|
-|UC-8210-T-LX<br>UC-8210-T-LX-S<br>UC-8220-T-LX<br>UC-8220-T-LX-US-S<br>UC-8220-T-LX-EU-S<br>UC-8220-T-LX-AP-S|[imx7-linux-4.4](https://github.com/Moxa-Linux/imx7-linux-4.4)|u-boot|[Example codes](https://github.com/Moxa-Linux/moxa-platform-example-codes)||
+|UC-8210-T-LX<br>UC-8210-T-LX-S<br>UC-8220-T-LX<br>UC-8220-T-LX-US-S<br>UC-8220-T-LX-EU-S<br>UC-8220-T-LX-AP-S|[linux-4.4](https://github.com/Moxa-Linux/linux-4.4/tree/4.4.285-cip63-rt36/stretch-imx7d/master)|u-boot|[Example codes](https://github.com/Moxa-Linux/moxa-platform-example-codes)||
 
 ## UC-8410A Series
 
@@ -70,7 +70,7 @@
 
 |Model Names|Kernel|Bootloader|Example Codes|Notes|
 |---|---|---|---|---|
-|UC-8410A-LX|[ls1021a-linux-4.4](https://github.com/Moxa-Linux/ls1021a-linux-4.4)|u-boot|[Example codes](https://github.com/Moxa-Linux/UC-8410A-example-code)||
+|UC-8410A-LX|[linux-4.4](https://github.com/Moxa-Linux/linux-4.4/tree/4.4.285-cip63-rt36/stretch-ls102xa/master)|u-boot|[Example codes](https://github.com/Moxa-Linux/UC-8410A-example-code)||
 
 ## DA-662A Series
 
